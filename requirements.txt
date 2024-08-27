@@ -1,0 +1,11 @@
+minimap2
+bcftools
+seqkit
+pysam
+pandas
+samtools
+spoa
+NanoFilt
+blastn
+fastANI
+cd-hit-est

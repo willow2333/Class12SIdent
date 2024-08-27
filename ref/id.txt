@@ -1,0 +1,3 @@
+Name	Chinese
+Bos_taurus	家牛
+Bos_grunniens	家牦牛
