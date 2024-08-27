@@ -6,6 +6,6 @@ pandas
 samtools
 spoa
 NanoFilt
-blastn
+blast
 fastANI
-cd-hit-est
+cd-hit
