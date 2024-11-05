@@ -1,11 +1,11 @@
 # Class12SIdent
 #### Overview
-&emsp; &emsp; Classs12SIdent is a species analysis tool basing on Sequencing data. Maybe your data is NGS data or TGS data, this tool can deal with it very well.
+&emsp; &emsp; Class12SIdent is a species analysis tool basing on Sequencing data. Maybe your data is NGS data or TGS data, this tool can deal with it very well.
 #### Workflow ![1](image/flowchart_00.png)
 ##### Python environment construction and required software installation
 ```
-conda create -n Classs12SIdent  
-conda activate Classs12SIdent 
+conda create -n Class12SIdent  
+conda activate Class12SIdent 
 conda config --add channels bioconda 
 conda config --add channels
 conda install --yes --file requirements.txt
@@ -14,8 +14,8 @@ conda install --yes --file requirements.txt
 
 ##### Classs12SIdent installation & usage
 ```
- git clone https://github.com/willow2333/Classs12SIdent.git
- cd Classs12SIdent  
+ git clone https://github.com/willow2333/Class12SIdent.git
+ cd Class12SIdent  
  python Run.py --h
 
 usage: Run.py [-h] [--path PATH] [--refpath REFPATH] [--refname REFNAME] [--min MIN] [--max MAX] [--Q Q]
@@ -40,7 +40,7 @@ options:
 ```
 
 ##### Test
-The reulst files of Classs12SIdent are showed in "Result" folder. There are three files, 
+The reulst files of Class12SIdent are showed in "Result" folder. There are three files, 
 ```
 python ANIScoreRun.py --refpath ./ref --refname ref
 python Run.py --path ./test --refpath ./ref --refname ref
