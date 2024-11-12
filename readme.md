@@ -1,7 +1,7 @@
 # Class12SIdent
 #### Overview
 &emsp; &emsp; Class12SIdent is a species analysis tool basing on Sequencing data. Maybe your data is NGS data or TGS data, this tool can deal with it very well.
-#### Workflow ![1](image/flowchart_00.png)
+#### Workflow ![1](image/flowchart.png)
 ##### Python environment construction and required software installation
 ```
 conda create -n Class12SIdent  
