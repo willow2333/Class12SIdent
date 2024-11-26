@@ -45,7 +45,7 @@ The reulst files of Class12SIdent are showed in "Result" folder. There are three
 python ANIScoreRun.py --refpath ./ref --refname ref
 python Run.py --path ./test --refpath ./ref --refname ref
 ```
-##### * Note! *
+##### *Note!*
 1. For generating the blast alignmnet result, makeblastdb command must be executed fistly in reference folder.
 
 © 2024 by Liu Qin (ql_willow@163.com), Zheng Wang (wangzhengtim@scu.edu.cn).
