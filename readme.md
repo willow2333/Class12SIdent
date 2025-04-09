@@ -47,5 +47,3 @@ python Run.py --path ./test --refpath ./ref --refname ref
 ```
 ##### **Note!**
 1. For generating the blast alignmnet result, makeblastdb command must be executed fistly in reference folder.
-
-© 2024 by Liu Qin (ql_willow@163.com), Zheng Wang (wangzhengtim@scu.edu.cn).
